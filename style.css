@@ -1,0 +1,40 @@
+body 
+{
+    background-size: cover;
+}
+
+canvas 
+{
+    border: 10px solid rgb(0, 238, 255);
+    border-radius: 25px;
+    margin-top: 230px;
+}
+
+.heading
+{
+    font-size: 35px;
+    font-family: serif;
+    font-weight: bold;
+    height: 35px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.heading3
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.song_id
+{
+    width: 150px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 25px;
+}
